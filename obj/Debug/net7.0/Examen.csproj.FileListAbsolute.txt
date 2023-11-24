@@ -1,0 +1,15 @@
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\obj\Debug\net7.0\Examen.csproj.AssemblyReference.cache
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\obj\Debug\net7.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\obj\Debug\net7.0\Examen.AssemblyInfoInputs.cache
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\obj\Debug\net7.0\Examen.AssemblyInfo.cs
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\obj\Debug\net7.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\bin\Debug\net7.0\Examen.exe
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\bin\Debug\net7.0\Examen.deps.json
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\bin\Debug\net7.0\Examen.runtimeconfig.json
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\bin\Debug\net7.0\Examen.dll
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\bin\Debug\net7.0\Examen.pdb
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\obj\Debug\net7.0\Examen.dll
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\obj\Debug\net7.0\refint\Examen.dll
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\obj\Debug\net7.0\Examen.pdb
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\obj\Debug\net7.0\Examen.genruntimeconfig.cache
+C:\Users\cd14\Desktop\Examen_U3_PHAC\Examen\obj\Debug\net7.0\ref\Examen.dll
